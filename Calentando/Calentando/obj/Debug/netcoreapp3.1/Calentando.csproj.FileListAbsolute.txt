@@ -1,0 +1,13 @@
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\bin\Debug\netcoreapp3.1\Calentando.exe
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\bin\Debug\netcoreapp3.1\Calentando.deps.json
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\bin\Debug\netcoreapp3.1\Calentando.runtimeconfig.json
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\bin\Debug\netcoreapp3.1\Calentando.runtimeconfig.dev.json
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\bin\Debug\netcoreapp3.1\Calentando.dll
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\bin\Debug\netcoreapp3.1\Calentando.pdb
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\obj\Debug\netcoreapp3.1\Calentando.csproj.AssemblyReference.cache
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\obj\Debug\netcoreapp3.1\Calentando.AssemblyInfoInputs.cache
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\obj\Debug\netcoreapp3.1\Calentando.AssemblyInfo.cs
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\obj\Debug\netcoreapp3.1\Calentando.csproj.CoreCompileInputs.cache
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\obj\Debug\netcoreapp3.1\Calentando.dll
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\obj\Debug\netcoreapp3.1\Calentando.pdb
+C:\Users\Endy Infante\source\repos\Calentando\Calentando\obj\Debug\netcoreapp3.1\Calentando.genruntimeconfig.cache
